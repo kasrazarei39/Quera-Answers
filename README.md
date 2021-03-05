@@ -2,7 +2,7 @@
 
 answers of the  [quera.ir](https://quera.ir/) questions
 
-## [جستجوی پاسخ‌ها](https://kasrazarei39.github.io/Quera-Answers/search/)
+## [جستجوی پاسخ‌ها](https://github.com/kasrazarei39/Quera-Answers/tree/main/search)
 
 Select your category and searching your problem to redirect to the answer page
 
