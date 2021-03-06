@@ -1,6 +1,6 @@
 # Quera-Answers
 
-answers of the  [quera.ir](https://quera.ir/) questions
+Answers of the  [quera.ir](https://quera.ir/) questions
 
 ## [جستجوی پاسخ‌ها](https://kasrazarei39.github.io/Quera-Answers/search)
 
